@@ -5,10 +5,12 @@
 $DO_CACHE = @file_exists(dirname(__FILE__) . "/enablecache.txt");
 
 // Simply forward a youtube video.
-isset($_REQUEST["v"]) or die("v");
+if (!isset($_REQUEST['v'])) {
+    die("v");
+}
 
 $v = $_REQUEST["v"];
-preg_match("/^[\w-]+$/", $v) or die("invalid: $v");
+preg_match("/^[\w-]+$/", $v) or die("invalid v");
 
 @header('Content-type: image/jpeg');
 

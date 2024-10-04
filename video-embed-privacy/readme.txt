@@ -2,8 +2,8 @@
 Contributors: michael.zangl
 Tags: youtube, germany, deutschland
 Requires at least: 4.5
-Tested up to: 4.9.4
-Stable tag: 1.2
+Tested up to: 6.5.3
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,5 +50,9 @@ None so far.
 
 = 1.2 =
 * Add link to google privacy page
+
+= 1.3 =
+* Security update - thanks to vgo0
+
 
 
