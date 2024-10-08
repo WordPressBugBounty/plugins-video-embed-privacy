@@ -52,7 +52,7 @@ None so far.
 * Add link to google privacy page
 
 = 1.3 =
-* Security update - thanks to vgo0
+* Security update
 
 
 
