@@ -3,7 +3,7 @@
 Plugin Name: Embed videos and respect privacy
 Plugin URI:  https://wordpress.org/plugins/video-embed-privacy/
 Description: Allows you to embed youtube videos without sending data to google on every page view.
-Version:     1.1
+Version:     1.3
 Author:      Michael Zangl
 License:     GPL2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
